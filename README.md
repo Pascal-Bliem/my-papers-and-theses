@@ -45,11 +45,19 @@ D. Music, Y.-T. Chen, R. W. Geyer, P. Bliem, and J. M. Schneider
 
 ## Master of Science Thesis
 
+<p align="center">
+<img src="./figures/msc.png" alt="msc" height="150"/>
+</p>
+
 ***Synthesis and Characterization of Re-B Thin Films*** [[pdf]](./MSc_Thesis_PascalBliem.pdf)
 
 ***Abstract:*** In this work, Re-B and Al/Ti-alloyed Re-B thin films are deposited by hybrid RF-DC magnetron sputtering. The phase formation, chemical composition and state, and mechanical properties of the films are characterized by XRD and SEM, EDX and XPS, and nanoindentation, respectively. Phase-pure ReB<sub>2</sub> films are synthesized between 500 and 900 °C over a wide composition range of about 55 to 75 at.% B. Al and Ti can be alloyed into ReB<sub>2</sub> films without formation of other phases up to concentrations of 13.6 at.% Al and 3.9 at.% Ti, respectively, which agrees excellently with predictions from the energies of formation obtained by DFT calculations. Unalloyed ReB<sub>2</sub> films exhibit an elastic modulus of about 500 GPa and a hardness of about 30 GPa. These comparably low values (cf. E<sub>DFT</sub>=667 GPa) can be rationalized by the rough, inhomogeneous, and apparently porous microstructure of the films. Upon Al-alloying, the films become rougher, more porous, and less stiff and hard. However, one exceptionally smooth and dense Al-alloyed film (3.5 at.% Al) exhibits high stiffness and superhardness (E=562 GPa, H=40 GPa). Upon Ti-alloying, the films show much lower surface roughness and no indication of porosity, which yields high stiffness and superhardness with E and H up to 519 and 40 GPa (12.7 at.% Ti), respectively. Unalloyed ReB<sub>2</sub> films form perrhenic acid (HReO<sub>4</sub>) in air, indicating coating corrosion. Ti-alloyed films form TiO<sub>2</sub> which slows down the corrosive reaction, but does not seem to result in full passivation. Al-alloying, on the contrary, results in the formation of a passivating Al<sub>2</sub>O<sub>3</sub> layer which prevents a corrosive reaction already at an Al concentration of 3.7 at.%. Thus, it is shown that superhard and chemically stable (Re,Al)B<sub>2</sub> coatings can be synthesized by magnetron sputtering.
 
 ## Graduate Seminar Thesis
+
+<p align="center">
+<img src="./figures/hs.png" alt="hs" height="150"/>
+</p>
 
 ***Computational and experimental investigation of the grain size dependency of the thermal expansion of Nb thin films*** [[pdf]](./Graduate_Seminar_Thesis.pdf)
 
@@ -61,11 +69,19 @@ Nb thin films of about 1 μm thickness were deposited via DC magnetron sputterin
 
 ## Graduate Research Project Report
 
+<p align="center">
+<img src="./figures/upp.png" alt="upp" height="150"/>
+</p>
+
 ***Tunable perpendicular anisotropy in δ-doped Co/Fe-V superlattices*** [[pdf]](./Graduate_Project_Report.pdf)
 
 ***Abstract:*** In this work, we investigate the effect of varying Co δ-layer density on anisotropy in Co/Fe<sub>31</sub>V<sub>69</sub> superlattices. Samples were grown epitaxially on MgO via direct-current magnetron sputtering and characterised by x-ray diffraction, x-ray reflectivity, and longitudinal magneto-optical Kerr effect measurements. Superlattices with one monolayer of Co per repetition exhibit excellent coherency and low uncorrelated interface roughness. Addition of Co layers reduces the temperature of zero in-plane magnetisation, indicating an out-of-plane canting angle of the magnetic moment. This perpendicular anisotropy originates from Co interfaces and is in competition with the shape anisotropy, which in turn, depends on the total magnetic moment of the film. We conclude that the degree of canting is tunable by temperature, Co layer density, and composition of the Fe-V alloy. An elevation of the total magnetic moment by higher Fe concentration or lower temperature increases the in-plane projection of the moment, whereas additional interfaces increase its out-of-plane projection.
 
 ## Bachelor of Science Thesis
+
+<p align="center">
+<img src="./figures/bsc.png" alt="bsc" height="150"/>
+</p>
 
 ***Oxygen induced change in binding energies in metal boride systems*** [[pdf]](./BSc_Thesis_PascalBliem.pdf)
 
