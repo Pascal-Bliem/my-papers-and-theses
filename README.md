@@ -14,6 +14,10 @@ My academic papers and theses from my time as a Materials Science &amp; Engineer
 P. Bliem, S. Mráz, S. Sen, O. Hunold, J. M. Schneider  
 **Sci. Rep. 8 (2018) (open access)**
 
+- [*Remote Tracking of Phase Changes in Cr<sub>2</sub>AlC Thin Films by In-situ Resistivity Measurements*](https://www.nature.com/articles/s41598-019-44692-4)  
+B. Stelzer, X. Chen, P. Bliem, M. Hans, B. Völker, R. Sahu, C. Scheu, D. Primetzhofer & J. M. Schneider  
+**Sci. Rep. 9 (2019) (open access)**
+
 - [*Elastic properties of amorphous T<sub>0.75</sub>Y<sub>0.75</sub>B<sub>14</sub> (T = Sc, Ti, V, Y, Zr, Nb) and the effect
 of O incorporation on bonding, density and elasticity (T = Ti, Zr)*](https://iopscience.iop.org/article/10.1088/1361-648X/aa5375/pdf)  
 O. Hunold, P. Keuter, P. Bliem, D. Music, F. Wittmers, A. L. Ravensburg, D. Primetzhofer and J. M. Schneider  
